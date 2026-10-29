@@ -2,7 +2,7 @@ export const colors = {
   background: "#1A191C",
   surface: "#262628",
   surfaceAlt: "#777678",
-  tabBar: "#7b48e1", // 1A191C
+  tabBar: "#1A191C",
   tabActivePill: "#363538",
   toolCircle: "#1A191C",
 

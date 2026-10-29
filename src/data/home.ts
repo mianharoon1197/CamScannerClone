@@ -25,11 +25,13 @@ export const recents: Doc[] = [
     title: "CamScanner 25-10-2026 15.48",
     date: "25/10/2026 15:48",
     pages: 2,
+    thumbnail: require("@/assets/images/doc1.jpg"),
   },
   {
     id: "2",
     title: "CamScanner 05-07-2026 17.13",
     date: "16/10/2026 18:13",
     pages: 1,
+    thumbnail: require("@/assets/images/doc2.jpg"),
   },
 ];

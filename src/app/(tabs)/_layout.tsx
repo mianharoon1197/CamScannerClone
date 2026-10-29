@@ -41,9 +41,9 @@ export default function TabsLayout() {
             marginBottom: 2,
           },
           tabBarItemStyle: {
-            borderRadius: 20,
-            marginVertical: 5,
-            marginHorizontal: 2,
+            // borderRadius: 2,
+            // marginVertical: 3,
+            //marginHorizontal: 2,
           },
           tabBarStyle: {
             position: "absolute",
